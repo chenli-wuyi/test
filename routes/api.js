@@ -12,6 +12,7 @@ router.all('*', function(req, res, next) {
     next();
 });
 //abcdddddd
+//dfasdfsdffadsf
 //注册			 http://localhost:3000/api/reg
 router.get('/reg', function(req, res, next) {
   	//获取到前端传过来的参数
